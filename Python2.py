@@ -13,3 +13,6 @@ def read(word):
         return sen
     except AttributeError:
         return "Error404"
+
+def test():
+    print('dsada')
